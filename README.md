@@ -1,1 +1,7 @@
-[tuto.txt](https://github.com/frymeldev/dm-all-bot/files/15133052/tuto.txt)
+Lance le script
+
+Met le token de ton bot 
+
+va dm ton bot en priver et tu ecrit .dm_all id du serveur message de pub
+
+exemple : .dm_all 1220245781768835165 test

@@ -17,7 +17,7 @@ async def on_ready():
 
 @bot.command()
 async def dm_all(ctx, guild_id: int, *, message: str):
-    if ctx.guild is None:  
+    if ctx.guild is None:          
         guild = bot.get_guild(guild_id)
         if guild is not None:
             count = 0

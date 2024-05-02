@@ -35,7 +35,7 @@ async def dm_all(ctx, guild_id: int, *, message: str):
     else:
         await ctx.send("Cette commande doit être exécutée en messages privés (DM).")
 
-print_red("Créé par Fymel")
+print_red("Créé par Frymel")
 
 token = input("Veuillez entrer le token du bot : ")
 bot.run(token)
